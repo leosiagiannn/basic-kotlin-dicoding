@@ -1,3 +1,4 @@
+Leonardo Siagian
 Rangkuman Kelas Memulai Pemrograman dengan Kotlin
 
 Rangkuman dari Pendahuluan
