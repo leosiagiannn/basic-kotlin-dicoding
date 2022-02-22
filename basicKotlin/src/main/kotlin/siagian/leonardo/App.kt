@@ -1,8 +1,6 @@
-fun main(){
-    println((1..99 step 9).sum())
+fun main() {
+    println((1..99).sum())
 }
-
-
 /* Elvis Operator */
 //fun main() {
 //    val text: String? = null
